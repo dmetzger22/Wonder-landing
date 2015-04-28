@@ -4,7 +4,7 @@
   
 	    // Enter the email where you want to receive notification
 		
-		$emailTo = 'hello@yourmail.com';
+		$emailTo = 'dannymetzgertraber@gmail.com';
     
           // DON'T EDIT BELOW CODE
 
